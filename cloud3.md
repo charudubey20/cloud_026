@@ -1,5 +1,5 @@
 # BASIC LINUX COMMANDS
-- **ls**     Lists directories/file in current directory
+- **ls**    : Lists directories/file in current directory
 - **cd**    : Change directory
 - **pwd**   : Prints working directory
 - **mkdir** : Makes new directory
