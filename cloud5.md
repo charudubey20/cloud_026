@@ -8,7 +8,7 @@ Now lets see how to create EC2 in AWS
 4. Now add Storage aacording to your requriment
 5. You can attach additional EBS volumes and instance store volumes to your instance, or edit the settings of the root volume.
 6. Connect to EC2 server through remote protocols such as SSH ,etc..
-7. 5.Now as soon we are connected to instance we got interface of the instance launched.Launch the instance....And you are ready to Go
+7. Now as soon we are connected to instance we got interface of the instance launched.Launch the instance....And you are ready to Go
 
 # About EC2
 
