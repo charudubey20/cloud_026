@@ -14,4 +14,4 @@ instead of your computer's hard drive.
 - Fast deployment
 - Disaster Recovery
 - Security
-- Quality Control
+- Quality Control.
